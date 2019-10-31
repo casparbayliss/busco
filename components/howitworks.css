@@ -1,0 +1,26 @@
+#howitworkscard {
+  height: 310px;
+  width: 500px;
+  border: 6px solid #ffed29;
+  border-radius: 50px;
+  margin: 50px;
+  align-items: center;
+  display: inline-block;
+}
+
+#howitworksflexbox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 10px 0px 5px;
+}
+
+#howitworksflexbox p {
+  font-size: 18px;
+}
+
+#shoppingImage {
+  height: auto;
+  width: 50%;
+}

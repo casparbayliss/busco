@@ -1,0 +1,21 @@
+.categoryCard {
+    height: 200px;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+    color: #ffed29;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px black;
+    font-size: 30px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.categoryCard p {
+    padding-left: 20px;
+    text-align: left;
+}
+
+.categoryCard:hover {
+    opacity: 0.5;
+}
